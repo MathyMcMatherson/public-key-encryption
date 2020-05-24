@@ -6,3 +6,4 @@
 - [Code.org Encryption Video](https://www.youtube.com/watch?v=ZghMPWGXexs)
 - [Art of the Problem (first half is best)](https://www.youtube.com/watch?v=YEBfamv-_do)
 - [Code.org HTTPS Video (starts at 4:40)](https://www.youtube.com/watch?v=kBXQZMmiA4s&t=280)
+- [Code.org Modulo Clock Widget](https://studio.code.org/s/csp4-2019/stage/9/puzzle/5)
