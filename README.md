@@ -1,5 +1,8 @@
 # Public Key Encryption Lesson
 
+## Play With It
+
+[Open the Website](https://mathymcmatherson.github.io/public-key-encryption/)
 
 ## Resources
 - [In-Class Worksheet to Go With Website - can be done on Google Classroom](https://docs.google.com/document/d/1Y2xhTrO7WxPHc1U3h73Cbc7ulikK95JoCVJtJxi-FOY/edit?usp=sharing)
